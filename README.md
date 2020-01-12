@@ -6,6 +6,8 @@ This is a tool that is intended to work around the fact that the
 preemptoff, irqsoff, and preemptirqsoff tracers only work in
 overwrite mode.
 
+I originally posted this to the LKML [here](https://lkml.org/lkml/2019/10/18/786)
+
 ## How ta build
 
 You can build this tool by doing this:
