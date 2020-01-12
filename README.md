@@ -17,7 +17,7 @@ cd tools/trace
 make
 ```
 
-You will need a kernel with [this patch](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=91edde2e6ae1dd5e33812f076f3fe4cb7ccbfdd0). For mainline, this means v5.5-rc1 or newer.
+You will need a kernel with [this patch](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=91edde2e6ae1dd5e33812f076f3fe4cb7ccbfdd0). It may also be good to have [this patch](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=793937236d1ee032d2ee5ccc27bdd280a04e766e), in order to test the tool. For mainline, this means v5.5-rc1 or newer.
 
 ## How it works
 
