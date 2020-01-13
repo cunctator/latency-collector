@@ -8,7 +8,7 @@ overwrite mode.
 
 I originally posted this to the LKML [here](https://lkml.org/lkml/2019/10/18/786)
 
-## How ta build
+## How to build
 
 You can build this tool by doing this:
 
